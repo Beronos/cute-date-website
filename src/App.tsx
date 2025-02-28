@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com";
-import "@fontsource/pacifico";
+import '@fontsource/pacifico';
 import './App.css';
 
 interface FormData {
